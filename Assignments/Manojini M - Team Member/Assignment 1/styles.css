@@ -1,16 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
 
 * {
-    color: azure;
+    
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 
-}
-a {
-    text-decoration: none;
-    color: inherit;
 }
 .container {
     padding: 100px 150px;
@@ -33,9 +29,13 @@ a {
     margin-top: -20px;
     margin-left: 10px;
 }
+a {
+    text-decoration: none;
+    color: inherit;
+}
 .hero-section {
     display: flex;
-    background: url('./assets/background.jpg');
+    background: url('./assets/background.jpeg');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
@@ -106,9 +106,7 @@ a {
     border-radius: 30px;
 }
 
-body {
-    background-color: black;
-}
+
 .body-section {
     position: relative;
     top: -30px;
@@ -129,4 +127,7 @@ body {
 .body-section > p {
     font-size: 18px;
     font-weight: 200;
+}
+body {
+    background-color: rgb(243, 132, 169);
 }
