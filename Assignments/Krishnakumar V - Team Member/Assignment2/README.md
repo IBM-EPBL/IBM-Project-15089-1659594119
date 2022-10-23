@@ -1,7 +1,8 @@
 ## IBM induvidual assignment
 
-Team Member : V Krishnakumar
-Batch : B2-2M4E
+**Team Member** : V Krishnakumar
+
+**Batch** : B2-2M4E
 
 ## Installation
 
