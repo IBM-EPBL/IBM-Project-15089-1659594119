@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+* {
+    color: azure;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+.container {
+    padding: 100px 150px;
+    background: rgba(244, 240, 240, 0.13);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(244, 240, 240, 0.3);
+    
+}
+.title {
+    font-size: 80px;
+    font-weight: 400;
+}
+.subtitle {
+    font-size: 40px;
+    font-weight: 200;
+    margin-bottom: 30px;
+    margin-top: -20px;
+    margin-left: 10px;
+}
+.hero-section {
+    display: flex;
+    background: url('./assets/images.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-size: cover;
+    border-radius: 50px;
+    border: azure solid 1px;
+}
+
+.name-container, .image-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.image-container {
+    margin-left: -60px;
+}
+.name-container {
+    margin-left: 50px;
+}
+
+.btn-hover {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 50px;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    -moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+
+.btn-hover.color-0 {
+    background-image: linear-gradient(to right, rgba(204, 207, 207),#aaa,#29323c, #485563);
+    box-shadow: 0 4px 15px 0 rgba(45, 54, 65, 0.75);
+}
+
+.btn-hover.color-1 {
+    background-image: linear-gradient(to right, #25aae1, #40e495, #30dd8a, #2bb673);
+    box-shadow: 0 4px 15px 0 rgba(49, 196, 190, 0.75);
+}
+
+.user-image {
+    width: 20rem;
+    height: 25rem;
+    margin: 20px;
+    border: azure solid 5px;
+    border-radius: 30px;
+}
+
+body {
+    background-color: black;
+}
+.body-section {
+    position: relative;
+    top: -30px;
+    left: 40%;
+    padding: 30px 20px;
+    width: 50%;
+    background: rgba(244, 240, 240, 0.38);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(244, 240, 240, 0.37);
+}
+.body-section > h2 {
+    font-size: 28px;
+    font-weight: 400;
+}
+.body-section > p {
+    font-size: 18px;
+    font-weight: 200;
+}
