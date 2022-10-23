@@ -1,6 +1,6 @@
 ## IBM induvidual assignment
 
-**Team Member** : V Krishnakumar
+**Team Member** : M Manojini
 
 **Batch** : B2-2M4E
 
