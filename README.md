@@ -46,7 +46,7 @@ SRI KRISHNA COLLEGE OF TECHNOLOGY
  - [Team Leader : Harshini T](https://github.com/krishkdev)
  - [Team member : Krishnakumar V](https://github.com/krishkdev)
  - [Team member : Manojini M](https://github.com/Manojini22)
- - [Team member : Lakshmi Narayanan M](https://github.com/Manojini22)
+ - [Team member : Lakshmi Narayanan M](https://github.com/lakshminarayanansri)
 
 
 ## Tech Stack
@@ -64,6 +64,7 @@ SRI KRISHNA COLLEGE OF TECHNOLOGY
 - [@Harshini2706](https://github.com/Harshini2706)
 - [@krishkdev](https://github.com/krishkdev)
 - [@Manojini22](https://github.com/Manojini22)
+- [@lakshminarayanansri](https://github.com/lakshminarayanansri)
 
 
 ## Feedback
