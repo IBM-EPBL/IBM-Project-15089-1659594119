@@ -33,7 +33,7 @@ Bachelor of Technology (B.tech)
 Information Technology
 
 **College	:**	
-SRI KRISHNA COLLEGE OF TECHNOLOGY
+SRI KRISHNA COLLEGE OF TECHNOLOGY, COIMBATORE
 
 ---
 
