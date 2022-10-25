@@ -43,10 +43,10 @@ SRI KRISHNA COLLEGE OF TECHNOLOGY
 
 ## Assignment  
 
- - [Team Leader : Harshini T](https://github.com/krishkdev)
- - [Team member : Krishnakumar V](https://github.com/krishkdev)
- - [Team member : Manojini M](https://github.com/Manojini22)
- - [Team member : Lakshmi Narayanan M](https://github.com/lakshminarayanansri)
+ - [Team Leader : Harshini T](https://github.com/IBM-EPBL/IBM-Project-15089-1659594119/tree/main/Assignments/Harshini%20T-Team%20Lead)
+ - [Team member : Krishnakumar V](https://github.com/IBM-EPBL/IBM-Project-15089-1659594119/tree/main/Assignments/Krishnakumar%20V%20-%20Team%20Member)
+ - [Team member : Manojini M](https://github.com/IBM-EPBL/IBM-Project-15089-1659594119/tree/main/Assignments/Manojini%20M%20-%20Team%20Member)
+ - [Team member : Lakshmi Narayanan M](https://github.com/IBM-EPBL/IBM-Project-15089-1659594119/tree/main/Assignments/lakshminarayanan%20M%20-Team%20member)
 
 
 ## Tech Stack
@@ -69,7 +69,7 @@ SRI KRISHNA COLLEGE OF TECHNOLOGY
 
 ## Feedback
 
-If you have any queries or feedback, please reach out to us at krishkdev2001@gmail.com
+If you have any queries or feedback, please reach out to us at krishkumarv2001@gmail.com
 
 
 
